@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803701989156",
+    "firebase_url": "https://firebs-87436-default-rtdb.firebaseio.com",
+    "project_id": "firebs-87436",
+    "storage_bucket": "firebs-87436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803701989156:android:2d018ca3c9c210efec1db1",
+        "android_client_info": {
+          "package_name": "com.example.firebs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803701989156-6go3sfdq24del96qtk4onkajh4ksbhu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVkxMqVIo1GqAAwapcyaCtGK2NqWcpLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803701989156-6go3sfdq24del96qtk4onkajh4ksbhu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

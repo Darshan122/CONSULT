@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/drawable/calculator_btn.xml" value="0.252" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/drawable/next_button.xml" value="0.251" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_calculatour.xml" value="0.24635416666666668" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_clock.xml" value="0.264" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_intro.xml" value="0.4" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_registration_form.xml" value="0.264" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial01.xml" value="0.25" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial02.xml" value="0.25" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial03.xml" value="0.25" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial04.xml" value="0.2" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial05.xml" value="0.4" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial6.xml" value="0.25416666666666665" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/activity_tutorial_04.xml" value="0.25" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/calculator_btn.xml" value="0.24635416666666668" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/layout/calculator_item.xml" value="0.24635416666666668" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2555" />
+        <entry key="..\:/All Android Apps/AllProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

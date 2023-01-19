@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.allproject">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AllProject"
+        tools:targetApi="31">
+        <activity
+            android:name=".Tutorial_06"
+            android:exported="false" />
+        <activity
+            android:name=".Tutorial_05"
+            android:exported="false" />
+        <activity
+            android:name=".Intro_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tutorial_02"
+            android:exported="false"
+            android:parentActivityName=".Tutorial_02" />
+        <activity
+            android:name=".Tutorial_01"
+            android:exported="false"
+            android:parentActivityName=".Tutorial_01" />
+        <activity
+            android:name=".Tutorial_04"
+            android:exported="false"
+            android:parentActivityName=".Tutorial_04" />
+        <activity
+            android:name=".Tutorial_03"
+            android:exported="false"
+            android:parentActivityName=".Tutorial_03" />
+        <activity
+            android:name=".Calculator"
+            android:exported="false"
+            android:label="Calculator"
+            android:parentActivityName=".Calculator" />
+        <activity
+            android:name=".Registration_Form"
+            android:exported="false"
+            android:label="Registration Form"
+            android:parentActivityName=".Registration_Form" />
+        <activity
+            android:name=".Clock_Activity"
+            android:exported="false"
+            android:label="Clock"
+            android:parentActivityName=".Clock_Activity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
